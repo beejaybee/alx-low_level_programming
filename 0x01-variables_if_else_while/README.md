@@ -8,3 +8,4 @@
 * 5-NUMBERS
 * 6-NUMBERZ
 * 7-Smile in the mirror
+* 8-Hexadecimal
