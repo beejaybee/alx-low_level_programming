@@ -1,5 +1,3 @@
-es (30 sloc)  503 Bytes
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
